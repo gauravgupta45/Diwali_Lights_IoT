@@ -2,11 +2,23 @@
 Controlling Diwali home light with Blynk Application on phone from anywhere in the world(that's what IoT is xD). 
 
 
+
+
 Components you will need:
+
+
+
 1.> ESP8266
+
+
 2.> Arduino UNO
+
+
 3.> 5V Relay
+
+
 4.> Jumper Cables
+
 
 
 Now to get started, you have to install all the drivers required for blynk and also for esp8266. Next step is to interface with Blynk app.
